@@ -1,4 +1,12 @@
-### Hi there 👋
+## Olá! Eu sou o Joanderson 👋
+- 🔭 Trabalho com back-end em Node.js
+- 🌱 Estou aprendendo Typescript e React
+
+ <div>
+  <a href="https://github.com/JoandersonPaiva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoandersonPaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoandersonPaiva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **JoandersonPaiva/JoandersonPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
