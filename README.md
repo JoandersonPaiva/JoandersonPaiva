@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Joanderson 👋
-- 🔭 Trabalho com back-end em Node.js
-- 🌱 Estou aprendendo Typescript e React
+- 🔭 Desenvolvedor back-end em Node.js| Typescript
+- 🌱 Futuro fullstack, aprendendo Angular.js & Nest.js 
 
  <div>
   <a href="https://github.com/JoandersonPaiva">
